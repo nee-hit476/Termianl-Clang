@@ -1,2 +1,2 @@
 # C++ Gui Terminal
-- Tried to make a gui that functions like a terminal .
+- Tried to create a gui that functions like a terminal .
